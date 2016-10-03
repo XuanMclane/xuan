@@ -1,7 +1,7 @@
 #
 xuan
 
-Codility solutions by java.
+Java
 
 
 
